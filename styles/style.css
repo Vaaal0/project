@@ -83,6 +83,11 @@ button {
   cursor: pointer;
 }
 
+.info{
+    text-align: center;
+    margin-bottom: 10%;
+}
+
 #Gallery {
   width: 100%;
   min-height: 100vh;
@@ -169,6 +174,7 @@ button {
   padding: 20px;
   position: relative;
   opacity: 1;
+  text-align: center;
 }
 
 .close {
